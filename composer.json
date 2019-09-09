@@ -1,5 +1,5 @@
 {
-    "name": "cartalyst/sentinel",
+    "name": "cartalyst/sentinel-l6",
     "description": "PHP 5.4+ Fully-featured Authentication & Authorization System",
     "keywords": [
         "php",
