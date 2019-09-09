@@ -1,5 +1,5 @@
 {
-    "name": "cartalyst/sentinel-l6",
+    "name": "whowwn/sentinel-l6",
     "description": "PHP 5.4+ Fully-featured Authentication & Authorization System",
     "keywords": [
         "php",
@@ -13,9 +13,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Cartalyst LLC",
-            "email": "help@cartalyst.com",
-            "homepage": "https://cartalyst.com"
+            "name": "Berkay Kılıç",
+            "email": "berko93@gmail.com "
         }
     ],
     "require": {
